@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E00A2748-ACEC-41C5-ADDD-1D2794EE47B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.PizzaBox.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaBox.Domain/Class1.cs">
+    <Files>
+      <File FileName="PizzaBox.Domain/Singletons/LogIn.cs" Line="1" Column="1" />
+      <File FileName="PizzaBox.Storage/Repositories/UserRepository.cs" Line="1" Column="1" />
+      <File FileName="PizzaBox.Domain/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaBox" expanded="True">
+            <Node name="PizzaBox.Domain" expanded="True" selected="True" />
+            <Node name="PizzaBox.Storage" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PizzaBox.Testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
